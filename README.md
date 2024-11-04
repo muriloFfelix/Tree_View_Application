@@ -1,4 +1,4 @@
-# tree_view_app
+# Tree_View_Application
 
 A basic Flutter app for visualizing the assets contained on company units through a interactive tree view structure.
 
