@@ -14,9 +14,3 @@ In the possibility of improving the API, I would personally increase and enhance
 
 ## Video demonstration
 [https://photos.app.goo.gl/693eAh1DSDWgDxPW8](https://photos.app.goo.gl/693eAh1DSDWgDxPW8)
-
-## Setup
-
-Download and install the apk file on your Android device.
-
-[Download](https://github.com/muriloFfelix/Tree_View_Application/releases).
